@@ -30,4 +30,5 @@ section#desserts{
 section h2{
     background-color: rgb(56, 137, 110);
     color: white;
+    text-align: center;
 }

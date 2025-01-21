@@ -4,11 +4,16 @@
 
 header{
     display: flex;
+    align-items: center;
 }
 
-header{
+header h1{
     border: 1px solid red;
 }
+header p {
+    border: 1px solid greenyellow;
+}
+
 
 main{
     display: flex;

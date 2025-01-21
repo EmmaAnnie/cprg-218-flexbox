@@ -8,5 +8,5 @@ main{
 
 main section{
     flex: 1;
-    border: 1px solid aqua;
+    border: 1px solid rgb(64, 7, 32);
 }

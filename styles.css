@@ -6,6 +6,10 @@ header{
     display: flex;
 }
 
+header{
+    border: 1px solid red;
+}
+
 main{
     display: flex;
 }

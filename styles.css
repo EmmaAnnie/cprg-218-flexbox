@@ -33,3 +33,7 @@ section h2{
     text-align: center;
     margin: 0;
 }
+
+section li span{
+    font-weight: bold;
+}

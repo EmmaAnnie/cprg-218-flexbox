@@ -14,14 +14,6 @@ header img{
     height: 200px;
 }
 
-header h1{
-    border: 1px solid red;
-}
-header p {
-    border: 1px solid greenyellow;
-}
-
-
 main{
     display: flex;
     gap: 1rem;
